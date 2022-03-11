@@ -26,7 +26,6 @@ async function localizeVehicule() {
 
   fleets.forEach((fleet) => {
     if (fleet.id === fleets_id) {
-      console.log(fleet);
       vehicules.forEach((vehicule) => {
         if (vehicule.immatriculationPlate === immatriculationPlate) {
           fleetLocalized = fleet;
