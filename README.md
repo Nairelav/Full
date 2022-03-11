@@ -5,25 +5,28 @@ Les tests effectués sont : "Algo" et "Backend".
 ## Algo
 
 Les tests d'algorithmie peuvent être retrouvés sur la plateforme Codepen
+J'ai pu réaliser les tests d'algorithmie sur la plateforme Codepen. Ci-dessous vous trouverez les tests par algo.
 
-* Increment a custom Number type [https://codepen.io/1m70/pen/mdqNQgG?editors=1111]
-* FizzBuzz [https://codepen.io/1m70/pen/XWzvyxK]
+- Increment a custom Number type [https://codepen.io/1m70/pen/mdqNQgG?editors=1111]
+- FizzBuzz [https://codepen.io/1m70/pen/XWzvyxK]
 
 ## Backend
 
-Part 1
-L'ensemble du projet a été conçu sous le langage Typescript en ayant utilisé aucun framework pour générer l'API.
+L'ensemble des 2 projets a été réaliser sous le langage Typescript. Aucun framework (tel que Express) n'a été utilisé pour la création de l'API.
+Les contrôles n'ont pas été poussés n'étant pas le sujet du test. Cependant, si besoin de les pousser, alors je referais une passe pour améliorer ceux-ci.
 
-L'API n'est pas connectée à une Base de Données mais, a une fichier JSON.
+#### Pour lancer le projet en local en HotReload.
 
-L'API générer reste simple avec peu de route et les contrôles ne sont pas poussé à leur paroxisme (n'étant pas le sujet du test). Cependant, si besoin je peux pousser les contrôles des différentes actions.
+- `npm run dev`
 
-Part 2
+### Part 1
 
-### Pour lancer le projet en local en mode HotReload
+L'API n'est connectée à aucune Base de Données mais a des fichiers JSON qui se situent dans le dossier Data.
 
-* `npm run dev`
+Pour les jeux de test, j'ai utiliser l'outil Jest.
 
-### Commandes pour le jeu de tests
+#### Commande pour lancer les jeux de tests.
 
-* `npm run test`
+- `npm run test`
+
+
