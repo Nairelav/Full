@@ -36,6 +36,8 @@ Pour la deuxième partie du test, l'ensemble de l'API est connectée à la Base 
 
 Un fichier JSON est présent pour import dans **Postman** l'ensemble de l'API.
 
+Les commandes CLI se situent dans le dosser /src/bin/fleet
+
 #### Commandes les CLI custom.
 
 - `npm run fleet:create`

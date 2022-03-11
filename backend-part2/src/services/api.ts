@@ -34,6 +34,7 @@ export function getPostData(req: any): Promise<string> {
   });
 }
 
+// @desc Tranformation du retour multiple par Firebase
 export function getMultiDataFirestore(array: Array<any>) {
   let arrayOutput: Array<any> = [];
 
