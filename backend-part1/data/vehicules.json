@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "audi", "type": "1", "price": 15589, "fleets": ["1", "2"] },
+  { "id": "2", "name": "mercedes", "type": "1", "price": 69599, "fleets": ["1", "2"] },
+  { "id": "3", "name": "renault", "type": "3", "price": 86929, "fleets": ["1", "2"] },
+  { "id": "4", "name": "harley-davidson", "type": "2", "price": 20399, "fleets": ["1", "2"] },
+  { "id": "5", "name": "sncf", "type": "4", "price": 456849, "fleets": ["1", "2"] },
+  { "id": "69e7114d-16d4-4150-8bf2-8257c590a1ee", "name": "peugeot", "type": "1", "price": 16000, "fleets": ["1", "2"] }
+]

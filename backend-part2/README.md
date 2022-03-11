@@ -1,4 +1,4 @@
-# Full - Test technique
+# Test technique Full
 
 Les tests effectués sont : "Algo" et "Backend".
 
